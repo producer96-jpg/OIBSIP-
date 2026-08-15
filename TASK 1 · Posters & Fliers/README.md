@@ -1,19 +1,25 @@
-1. Posters & Fliers
+#  Task 1 — Posters & Fliers
 
-A collection of digital posters and promotional fliers created for different events, campaigns, or creative concepts.
+This project contains a set of digital posters and promotional fliers created as part of the **Graphics Design Track**.
 
-Features:
+The designs focus on visual hierarchy, typography, colour selection, composition, and clear communication.
 
-Multiple poster designs
-Defined colour palettes
-Clear visual hierarchy
-Custom graphic elements
-Typography and CTA design
-High-resolution exports
-Print and social media formats
+## Features
 
-Tools:
+* 2 poster designs
+* Defined colour palettes
+* Clear visual hierarchy
+* Custom graphic elements
+* Headline, subheadline, and CTA
+* High-resolution exports
+* Print/social media formats
 
-Figma
-Canva
-Adobe Photoshop / Illustrator
+## Tools Used
+
+* Figma
+* Canva
+* Adobe Photoshop / Illustrator
+
+## Learning Outcome
+
+Gained practical experience in **poster design, typography, colour theory, composition, and visual hierarchy**.
